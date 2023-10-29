@@ -1,0 +1,10 @@
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\bin\Debug\Ucuc rezervasyon.exe.config
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\bin\Debug\Ucuc rezervasyon.exe
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\bin\Debug\Ucuc rezervasyon.pdb
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\obj\Debug\Ucuc rezervasyon.csproj.AssemblyReference.cache
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\obj\Debug\Ucuc_rezervasyon.Form1.resources
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\obj\Debug\Ucuc_rezervasyon.Properties.Resources.resources
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\obj\Debug\Ucuc rezervasyon.csproj.GenerateResource.cache
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\obj\Debug\Ucuc rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\obj\Debug\Ucuc rezervasyon.exe
+C:\Users\sns_k\source\repos\Ucuc rezervasyon\Ucuc rezervasyon\obj\Debug\Ucuc rezervasyon.pdb
